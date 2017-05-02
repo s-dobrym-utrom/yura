@@ -1,0 +1,311 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Cinnamon v10.1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2016-11-15 17:49+0300\n"
+"Last-Translator: Игорь <dybabiz@ya.ru>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 1.8.11\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Textdomain-Support: yes\n"
+"Language: ru\n"
+"X-Poedit-SearchPath-0: .\n"
+
+# @ cinnamon
+#: 404.php:23
+msgid "Most Used Categories"
+msgstr "Популярные категории"
+
+# @ cinnamon
+#. translators: %1$s: smiley
+#: 404.php:40
+#, php-format
+msgid "Try looking in the monthly archives. %1$s"
+msgstr "Попробуйте поискать в ежемесячных архивах. %1$s"
+
+# @ cinnamon
+#: comments.php:28
+#, php-format
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "Один комментарий для &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s комментариев для &ldquo;%2$s&rdquo;"
+
+# @ cinnamon
+#: comments.php:35 comments.php:53
+msgid "Comment navigation"
+msgstr "Навигация по комментариям"
+
+# @ cinnamon
+#: comments.php:36 comments.php:54
+msgid "&larr; Older Comments"
+msgstr "&larr; Старые комментарии"
+
+# @ cinnamon
+#: comments.php:37 comments.php:55
+msgid "Newer Comments &rarr;"
+msgstr "Новые комментарии &larr;"
+
+# @ cinnamon
+#: comments.php:65
+msgid "Comments are closed."
+msgstr "Обсуждение закрыто"
+
+# @ cinnamon
+#: comments.php:72
+msgid "Share Your Thought"
+msgstr "Оставить комментарий"
+
+# @ cinnamon
+#: content-none.php:13
+msgid "Nothing Found"
+msgstr "Ничего не найдено."
+
+# @ cinnamon
+#: content-none.php:19
+#, php-format
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Готовы опубликовать свою первую запись? <a href=\"%1$s\">Начните здесь</a>."
+
+# @ cinnamon
+#: content-none.php:23
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Извините, но ничего не найдено по условиям поиска. Попробуйте использовать другие ключевые слова."
+
+# @ cinnamon
+#: content-none.php:28
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Кажется, мы не можем найти то, что вы ищете. Возможно, поиск сможет помочь."
+
+# @ cinnamon
+#: content-page.php:14 content-single.php:12 content.php:47
+#: single-jetpack-portfolio.php:21
+msgid "Pages:"
+msgstr "Страницы"
+
+# @ cinnamon
+#. translators: %s: Name of current post
+#: content.php:40
+#, php-format
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Читать далее %s <span class=\"meta-nav\">&rarr;</span>"
+
+# @ cinnamon
+#: functions.php:26
+msgctxt "Lato font: on or off"
+msgid "on"
+msgstr ""
+
+# @ cinnamon
+#: functions.php:82 header.php:41
+msgid "Primary Menu"
+msgstr "Основное меню"
+
+# @ cinnamon
+#: functions.php:121
+msgid "Sidebar"
+msgstr ""
+
+# @ cinnamon
+#: header.php:22
+msgid "Skip to content"
+msgstr "Наверх"
+
+# @ cinnamon
+#: inc/customizer.php:76
+msgid "Accent color"
+msgstr "Цвет иконок"
+
+# @ cinnamon
+#: inc/customizer.php:77
+msgid "Select one light color of your choice. Cinnamon will adjust its color scheme based on this color of choice.."
+msgstr ""
+
+# @ cinnamon
+#: inc/customizer.php:313
+msgid "Error generating color scheme. Please try again."
+msgstr "Ошибка генерации цветовой схемы. Пожалуйста, попробуйте еще раз."
+
+# @ cinnamon
+#: inc/extras.php:70
+#, php-format
+msgid "Page %s"
+msgstr "Страница %s"
+
+# @ cinnamon
+#: inc/plugin-compatibility-subtitles.php:80
+#, php-format
+msgid "%s under <span class=\"taxonomies\">%s</span>"
+msgstr "%s в <span class=\"taxonomies\">%s</span>"
+
+# @ cinnamon
+#: inc/template-tags.php:23 inc/template-tags.php:48
+msgid "Posts navigation"
+msgstr "Навигация по записям"
+
+# @ cinnamon
+#: inc/template-tags.php:25
+msgid "Newer stories"
+msgstr "Новые записи"
+
+# @ cinnamon
+#: inc/template-tags.php:50
+msgid "More stories"
+msgstr "Больше записей"
+
+# @ cinnamon
+#: inc/template-tags.php:74
+msgid "Post navigation"
+msgstr "Навигация по записи"
+
+# @ cinnamon
+#: inc/template-tags.php:77
+#, php-format
+msgid "<span class=\"meta-label\">Previously</span>%title"
+msgstr "<span class=\"meta-label\">Назад</span>%title"
+
+# @ cinnamon
+#: inc/template-tags.php:78
+#, php-format
+msgid "<span class=\"meta-label\">Read Next</span>%title"
+msgstr "<span class=\"meta-label\">Вперед</span>%title"
+
+# @ cinnamon
+#: inc/template-tags.php:98
+msgid "M j, Y"
+msgstr ""
+
+# @ cinnamon
+#: inc/template-tags.php:105
+#, php-format
+msgid "Posted on %s: "
+msgstr "Опубликовано %s"
+
+# @ cinnamon
+#: inc/template-tags.php:116
+msgid "Edit"
+msgstr "Редактировать"
+
+# @ cinnamon
+#: inc/template-tags.php:132
+msgid ", "
+msgstr ""
+
+# @ cinnamon
+#. translators: 1: date
+#: inc/template-tags.php:214 inc/template-tags.php:275
+#, php-format
+msgid "on %1$s"
+msgstr "  %1$s"
+
+# @ cinnamon
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:230
+msgid " "
+msgstr ""
+
+# @ cinnamon
+#: inc/template-tags.php:232
+msgid "Tagged"
+msgstr "Метки"
+
+# @ cinnamon
+#: inc/template-tags.php:238
+msgid "Leave a comment"
+msgstr "Комментировать"
+
+# @ cinnamon
+#: inc/template-tags.php:238
+msgid "1 Comment"
+msgstr "1 Комментарий"
+
+# @ cinnamon
+#: inc/template-tags.php:238
+msgid "% Comments"
+msgstr "% Комментариев"
+
+# @ default
+#: inc/template-tags.php:269
+#, php-format
+msgid "<cite class=\"fn\">%s</cite>"
+msgstr ""
+
+# @ cinnamon
+#: inc/template-tags.php:275
+msgid "(Edit)"
+msgstr " (Изменить)"
+
+# @ cinnamon
+#: inc/template-tags.php:282
+msgid "Your comment is awaiting moderation."
+msgstr "Ваш комментарий ожидает проверки."
+
+# @ cinnamon
+#: inc/template-tags.php:429
+#, php-format
+msgid "Author: %s"
+msgstr "Автор: %s"
+
+# @ cinnamon
+#: inc/template-tags.php:432
+#, php-format
+msgid "Day: %s"
+msgstr "День: %s"
+
+# @ cinnamon
+#: inc/template-tags.php:435
+#, php-format
+msgid "%s"
+msgstr ""
+
+# @ cinnamon
+#: inc/template-tags.php:435
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr ""
+
+# @ cinnamon
+#: inc/template-tags.php:438
+#, php-format
+msgid "Year: %s"
+msgstr "Год: %s"
+
+# @ cinnamon
+#: inc/template-tags.php:438
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+# @ cinnamon
+#: inc/template-tags.php:448
+msgid "Asides"
+msgstr "Заметки"
+
+# @ cinnamon
+#: inc/template-tags.php:457
+msgid "Archives"
+msgstr "Архивы"
+
+# @ cinnamon
+#: inc/template-tags.php:474
+#, php-format
+msgid "Search Results for: %s"
+msgstr "Результаты поиска: %s"
+
+# @ cinnamon
+#: inc/template-tags.php:478
+msgid "Page Not Found"
+msgstr "Страница не найдена"
+
+# @ cinnamon
+#: inc/template-tags.php:479
+msgid "Nothing was found at this location. Try one of the links below or a search:"
+msgstr "Ничего не было найдено в этом месте. Попробуйте одну из приведенных ниже ссылок или поиск:"
